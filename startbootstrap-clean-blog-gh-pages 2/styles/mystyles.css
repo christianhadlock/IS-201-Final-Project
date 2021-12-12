@@ -1,0 +1,25 @@
+p{
+    font-family: papyrus;
+    font-size: 28px;
+}
+
+a{
+    font-style: italic;
+    color: rgb(148, 177, 230);
+}
+
+h2{
+    color:rgb(154, 159, 161)
+}
+
+body{
+    background-color: rgb(247, 243, 230);
+}
+
+h1{
+    font-weight: 200;
+}
+
+u{
+    color: rgb(154, 159, 161);
+}

@@ -1,0 +1,80 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: lightseagreen;
+    background-color: rgb(247, 243, 230);
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(154, 159, 161);
+    color: white;
+    font-size: 30px;
+    position: fixed;
+  }
+
+  a{
+    font-size: 20px;
+    font-weight: bold;
+    color: lightsteelblue;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(154, 159, 161);
+    color: white;    
+    font-style: italic;
+    position: fixed;
+  }
+
+  h2 {
+    font-size: 15px;
+    position: relative;  
+  }
+
+  h3 {
+    font-size: 15px;
+    position:relative;
+  }
+
+  h4{
+    font-size: 15px;
+    position: relative;
+    bottom: 5px;
+  }
+
+  h5 {
+    font-size: 15px;
+    position: relative;
+    bottom: 11px;
+  }
+
+  .topleft {
+    position: absolute;
+    top: 22px;
+    left: 25px;
+    font-size: 18px;
+}
+
+.topright {
+    position: absolute;
+    top: 20px;
+    left: 640px;
+    font-size: 18px;
+}
+
+.bottomleft {
+    position: absolute;
+    top: 550px;
+    left: 25px;
+    font-size: 18px;
+}
+
+.bottomright {
+    position: absolute;
+    top: 550px;
+    left: 640px;
+    font-size: 18px;
+}
